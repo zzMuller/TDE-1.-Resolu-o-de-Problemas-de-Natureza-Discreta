@@ -1,5 +1,6 @@
+#Nome: Bernardo Schlottag Muller
 
-with open('arquivo1.txt', 'r') as tde:
+with open('arquivo1.txt', 'r') as tde: #apenas mudar o nome dos arquivos .txt para rodar o programa.
     linhas = tde.readlines() 
 
 pularLinha = 0
